@@ -1,0 +1,2 @@
+rootProject.name = "Cipboard"
+include ':app'
